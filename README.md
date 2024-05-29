@@ -30,7 +30,7 @@ Untuk menjalankan aplikasi web, ikuti langkah-langkah berikut:
 1. **Clone Repositori**:
    ```bash
    git clone https://github.com/anindayr/Capstone-Project.git
-   cd sistem-diagnosis-diabetes
+  
    ```
 
 2. **Jalankan Aplikasi**:
