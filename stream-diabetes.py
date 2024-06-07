@@ -4,6 +4,7 @@ from yaml.loader import SafeLoader
 import pickle
 import streamlit as st
 import numpy as np
+import openai
 from sklearn.preprocessing import StandardScaler
 from streamlit_option_menu import option_menu
 
