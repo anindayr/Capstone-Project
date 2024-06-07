@@ -6,3 +6,4 @@ pip==23.3.1
 streamlit_authenticator
 streamlit_option_menu
 pickle
+openai
